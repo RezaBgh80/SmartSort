@@ -87,4 +87,5 @@ SmartSort is a learning and portfolio project focused on Python GUI development,
 
 ## 👨‍💻 Author
 
-**Reza Bagheri**
+**Reza Bagheriyan**
+GitHub: @RezaBgh80
